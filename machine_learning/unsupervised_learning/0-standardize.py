@@ -8,7 +8,7 @@ from sklearn import preprocessing
 
 def Standardize(X):
     """
-    Standardizes a tabular dataset (subtracts mean and scales to unit variance).
+    Standardizes a tabular dataset.
 
     Arguments:
         X (numpy.ndarray): Tabular data of shape (n_samples, n_features)
