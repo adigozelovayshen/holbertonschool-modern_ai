@@ -6,7 +6,9 @@ This directory contains tasks and projects dedicated to **Unsupervised Learning*
 
 | Task | File | Description |
 | --- | --- | --- |
-| **0. Feature Standardization** |  | Standardizes tabular datasets using Scikit-learn's  to ensure all features contribute proportionally to distance and variance-based algorithms. |
+| **0. Feature Standardization** |  | Standardizes tabular datasets using Scikit-learn's . |
+| **1. Dimensionality Reduction with PCA** |  | Performs Principal Component Analysis (PCA) using Scikit-learn. |
+| **2. Clustering with K-Means** |  | Creates and fits a K-Means clustering model using Scikit-learn. |
 
 ## Requirements
 * Python 3.x
